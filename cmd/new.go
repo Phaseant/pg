@@ -21,7 +21,7 @@ var newCmd = &cobra.Command{
 	Short: "Generate a new password",
 	Long:  `Generate a new password. Flags example: -l 16 --nums=false -syms=false --up=false --low=false -amb=false`,
 	Run: func(cmd *cobra.Command, args []string) {
-		fmt.Print("Your new password is: ", generatePassword())
+		fmt.Print("Your new password is: ", generatePassword(), "\n")
 	},
 }
 
