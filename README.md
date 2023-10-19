@@ -25,4 +25,4 @@ Your new password is: ^ig-1wn180c8sa$hcqx^kd4qbumaemp!
 
 ## Installation
 
-go install github.com/Phaseant/pg
+`$ go install github.com/Phaseant/pg@latest`
