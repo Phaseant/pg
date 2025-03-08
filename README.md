@@ -1,6 +1,6 @@
 # Password Generator
 
-Easy Password Generator. Written in Go with ❤
+Easy Password Generator.
 
 ## Usage
 
